@@ -11,22 +11,22 @@ https://peppy-mousse-b7067d.netlify.app/
 
 ## Features
 
--Tabs: Allow users to switch between different sections of the website smoothly.
--Slider: A dynamic image or content slider to showcase various items or information.
--Calorie Calculator: A tool that helps users calculate their daily calorie intake based on input data.
--Remote Data Fetching: The website fetches data for cards from an external file, ensuring that content is always up to date.
--POST Requests: The site supports sending POST requests to a server to submit data, providing backend interaction.
--Countdown Timer: A functional countdown timer that can be used for various time-based activities or events.
--Modal Windows: Interactive pop-up modals that provide additional information or actions when needed.
+- Tabs: Allow users to switch between different sections of the website smoothly.
+- Slider: A dynamic image or content slider to showcase various items or information.
+- Calorie Calculator: A tool that helps users calculate their daily calorie intake based on input data.
+- Remote Data Fetching: The website fetches data for cards from an external file, ensuring that content is always up to date.
+- POST Requests: The site supports sending POST requests to a server to submit data, providing backend interaction.
+- Countdown Timer: A functional countdown timer that can be used for various time-based activities or events.
+- Modal Windows: Interactive pop-up modals that provide additional information or actions when needed.
 
 ## Technologies Used
 
--HTML5
--CSS3
--JS
--PHP (handles POST requests for server-side communication)
--json-server (remote data from an external source)
--Webpack (module bundling, ensuring efficient loading and optimized performance)
+- HTML5
+- CSS3
+- JS
+- PHP (handles POST requests for server-side communication)
+- json-server (remote data from an external source)
+- Webpack (module bundling, ensuring efficient loading and optimized performance)
 
 ## Installation
 
