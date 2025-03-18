@@ -21,12 +21,12 @@ https://peppy-mousse-b7067d.netlify.app/
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JS
-- PHP (handles POST requests for server-side communication)
-- json-server (remote data from an external source)
-- Webpack (module bundling, ensuring efficient loading and optimized performance)
+-HTML5
+-CSS3
+-JS
+-PHP (handles POST requests for server-side communication)
+-json-server (remote data from an external source)
+-Webpack (module bundling, ensuring efficient loading and optimized performance)
 
 ## Installation
 
