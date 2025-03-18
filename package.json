@@ -1,0 +1,28 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run build\"",
+    "server": "json-server --watch db.json --port 3000",
+    "build": "webpack --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    "> 1%",
+    "not dead"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-loader": "^8.1.0",
+    "concurrently": "^7.3.0",
+    "core-js": "^3.6.5",
+    "json-server": "^0.16.1",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
+}

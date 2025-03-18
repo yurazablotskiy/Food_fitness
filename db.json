@@ -1,0 +1,52 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Fitness Menu",
+      "descr": "The 'Fitness' menu is a new approach to cooking: more fresh vegetables and fruits. A product for active and healthy people. This is an entirely new product with an optimal price and high quality!",
+      "price": 9
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Lenten Menu",
+      "descr": "The 'Lenten' menu is a careful selection of ingredients: complete absence of animal products, milk made from almonds, oats, coconut, or buckwheat, the correct amount of protein with tofu and imported vegetarian steaks.",
+      "price": 14
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Premium Menu",
+      "descr": "In the 'Premium' menu, we use not only beautiful packaging design but also quality execution of the dishes. Red fish, seafood, fruits - restaurant menu without going to a restaurant!",
+      "price": 21
+    }
+  ],
+  "requests": [
+    {
+      "name": "marley",
+      "phone": "+3 (733) 334-44-44",
+      "id": 1
+    },
+    {
+      "name": "marley",
+      "phone": "+3 (733) 334-44-44",
+      "id": 2
+    },
+    {
+      "name": "marley",
+      "phone": "+3 (733) 334-44-44",
+      "id": 3
+    },
+    {
+      "name": "marley",
+      "phone": "+7 (333) 344-44-43",
+      "id": 4
+    },
+    {
+      "name": "marley",
+      "phone": "+3 (733) 334-44-44",
+      "id": 5
+    }
+  ]
+}
